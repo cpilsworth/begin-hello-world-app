@@ -14,3 +14,10 @@ data
   scopeID *String
   dataID **String
   ttl TTL
+
+@static
+folder public
+fingerprint true
+
+@events
+account-signup
