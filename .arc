@@ -7,6 +7,7 @@ begin-app
 
 @http
 get /
+get /foo
 
 @tables
 data
